@@ -1,0 +1,16 @@
+{
+	"version": "0.2",
+	"language": "en,vi",
+	"cache": {
+		"useCache": true
+	},
+	"dictionaryDefinitions": [
+		{
+			"name": "project",
+			"path": "cspell/project.txt"
+		}
+	],
+	"dictionaries": [
+		"project"
+	]
+}
